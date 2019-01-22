@@ -150,7 +150,7 @@ Toast.makeText(MainActivity.this,"Phone Is Safe",Toast.LENGTH_SHORT).show();
             super.onActivityResult(requestCode, resultCode, data);
         }
 
-
+//
     };
 
 

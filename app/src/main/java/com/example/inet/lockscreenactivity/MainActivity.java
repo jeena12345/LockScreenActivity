@@ -104,7 +104,7 @@ Toast.makeText(MainActivity.this,"Phone Is Safe",Toast.LENGTH_SHORT).show();
                     MediaPlayer ring = MediaPlayer.create(MainActivity.this, R.raw.voice);
                     ring.setLooping(true);
                     ring.start();
-
+//
                 }
 
                 if (v == enable) {
